@@ -1,0 +1,53 @@
+* {
+    font-family: "Arial";
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    padding: 20px;
+    background-color: white;
+    height: 400px;
+    width: 300px;
+}
+
+h1, h2, h3 {
+    font-family: "Lucida Sans";
+    text-shadow: 2px 1px #777;
+}
+
+p {
+    text-indent: 10px;
+}
+
+body {
+    background-color: #999;
+    padding-left: 10px;
+}
+
+a {
+    color: #444;
+}
+
+table, tr, td {
+    background-color: #555;
+    color: #999;
+}
+
+table {
+    border-spacing: 5px;
+    border-collapse: collapse;
+    margin: 20px;
+    border: 3px solid #111111;
+}
+td {
+    border: 2px solid #111;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
