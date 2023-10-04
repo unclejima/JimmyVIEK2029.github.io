@@ -62,16 +62,12 @@ td {
 
 button {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 30px;
+    font-size: 32px;
     height: 100px;
     margin: auto;
     width: 100%;
     border: 6px solid #faa;
     color: #fff;
     background-image: url(kuvat/kits.jpeg);
-    background-size: auto 100px;
-}
-
-span{
-    border: 10px solid red;
+    background-size: auto 100px
 }
